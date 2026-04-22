@@ -1,0 +1,12 @@
+User Upload CSV
+        ↓
+Data Cleaning Module
+        ↓
+Agent (LLM + Tools)
+        ↓
+Analysis Engine (Pandas)
+        ↓
+Visualization (Charts)
+        ↓
+Frontend Dashboard
+
